@@ -3,6 +3,9 @@
 
 
 --------
+🎯 About Me
+-
+
 I'm a passionate and curious software development student currently studying at CodeSpace. My journey into tech began with a fascination for how websites and digital tools work behind the scenes. Over time, I've developed a strong foundation in HTML, CSS, and JavaScript next,  I'm now focused on building responsive web interfaces and improving my front-end skills.
 
 I enjoy solving problems, learning new technologies, and turning creative ideas into functional web applications. My goal is to become a full-stack developer, contribute to open-source projects, and eventually work on products that make a real impact in people’s lives.
