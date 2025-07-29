@@ -13,7 +13,7 @@ I enjoy solving problems, learning new technologies, and turning creative ideas 
 Whether it's experimenting with code or collaborating with others, I'm always looking for ways to grow as a developer.
 
 ---------
-📌 Pinned Projects
+📌 Projects
 -
 ([SDF01] My First Repo) https://github.com/AfolabiAkandeAkor/Module_02_AFOAKA25509_PTO2505_GroupA_Afolabi-Akande_SDF01
 
@@ -24,6 +24,8 @@ Whether it's experimenting with code or collaborating with others, I'm always lo
 ([CDV01] Project Career Goals Template) https://github.com/AfolabiAkandeAkor/CDV01_Career_Goals_Reflection_AFOAKA25509_Pto2505_GroupA_Afolabi-Akande_CDV01
 
 ([SDF04] CS Footer) https://github.com/AfolabiAkandeAkor/Module_08_AFOAKA25509_Pto2505_GroupA_Afolabi-Akande_SDF04
+
+---------
 
 
 <!---
