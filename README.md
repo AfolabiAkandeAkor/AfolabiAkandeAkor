@@ -1,17 +1,13 @@
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"> Hi, I am Afolabi Akande
-- ----
-
- [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@follydupy1033)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/afolabi-akande-845b88370)
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=flat)](https://x.com/KingBhudu_01)
+ <h1>Hi there 👋, I'm Afolabi Akande</h1>
+<p>💻 Software Development Student | 🚀 Building cool things at CodeSpace</p>
 
 
-I'm a passionate software development student currently studying at CodeSpace Academy.  
-I enjoy building responsive websites, clean user interfaces, and learning new technologies.
+--------
+I'm a passionate and curious software development student currently studying at CodeSpace. My journey into tech began with a fascination for how websites and digital tools work behind the scenes. Over time, I've developed a strong foundation in HTML, CSS, and JavaScript next,  I'm now focused on building responsive web interfaces and improving my front-end skills.
 
-Currently learning: **JavaScript**, **Git & GitHub**, and **Responsive Design**
+I enjoy solving problems, learning new technologies, and turning creative ideas into functional web applications. My goal is to become a full-stack developer, contribute to open-source projects, and eventually work on products that make a real impact in people’s lives.
 
-Focused on frontend development with HTML, CSS & JS
+Whether it's experimenting with code or collaborating with others, I'm always looking for ways to grow as a developer.
 
 
 <!---
