@@ -44,6 +44,36 @@ Whether it's experimenting with code or collaborating with others, I'm always lo
 🔹 Creativity & Attention to Detail  
 🔹 Empathy & User-Centered Design
 
+-------
+
+🔗 Connect with Me
+-
+
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@follydupy1033)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolabi-akande-845b88370)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/KingBhudu_01)
+[![Gmail](https://img.shields.io/badge/Gmail-follydupy@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:follydupy@gmail.com)
+[![Yahoo Mail](https://img.shields.io/badge/Yahoo-folaakorede@yahoo.com-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:folaakorede@yahoo.com)
+
+
+------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
