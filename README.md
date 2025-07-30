@@ -57,6 +57,38 @@ Whether it's experimenting with code or collaborating with others, I'm always lo
 
 
 ------
+ 🎉 Fun Facts About Me
+ -
+
+- 🎮 I enjoy gaming to relax and reset my brain after coding
+- 🎧 I’m usually coding with Afrobeats or Lo-fi music in the background
+- 🧠 I'm a huge fan of productivity systems like Notion and digital planning
+- 🌍 I’m passionate about tech that solves real problems in African communities
+
+   -------
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AfolabiAkandeAkor&show_icons=true&theme=gruvbox" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfolabiAkandeAkor&layout=compact&theme=gruvbox" width="350" /> </p>
+
+
+-------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
