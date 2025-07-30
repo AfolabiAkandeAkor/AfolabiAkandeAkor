@@ -13,17 +13,18 @@ I enjoy solving problems, learning new technologies, and turning creative ideas 
 Whether it's experimenting with code or collaborating with others, I'm always looking for ways to grow as a developer.
 
 ---------
-📌 Projects
--
-([SDF01] My First Repo) https://github.com/AfolabiAkandeAkor/Module_02_AFOAKA25509_PTO2505_GroupA_Afolabi-Akande_SDF01
+ 📁 Projects 
 
-([SDF02] CS Cat HTML Portfolio) https://github.com/AfolabiAkandeAkor/Module_04_AFOAKA25509_pto2505_GroupA_Afolabi-Akande_SDF02
+- 🎯 [SDF01 – My First Repo](https://github.com/AfolabiAkandeAkor/Module_02_AFOAKA25509_PTO2505_GroupA_Afolabi-Akande_SDF01)
 
-([SDF03] CodeSpace Pets Instagram Profile) https://github.com/AfolabiAkandeAkor/Module_06_AFOAKA25509_Pto2505_GroupA_Afolabi-Akande_SDF03
+- 🐱 [SDF02 – CS Cat HTML Portfolio](https://github.com/AfolabiAkandeAkor/Module_04_AFOAKA25509_pto2505_GroupA_Afolabi-Akande_SDF02)
 
-([CDV01] Project Career Goals Template) https://github.com/AfolabiAkandeAkor/CDV01_Career_Goals_Reflection_AFOAKA25509_Pto2505_GroupA_Afolabi-Akande_CDV01
+- 🐶 [SDF03 – CodeSpace Pets Instagram Profile](https://github.com/AfolabiAkandeAkor/Module_06_AFOAKA25509_Pto2505_GroupA_Afolabi-Akande_SDF03)
 
-([SDF04] CS Footer) https://github.com/AfolabiAkandeAkor/Module_08_AFOAKA25509_Pto2505_GroupA_Afolabi-Akande_SDF04
+- 🧠 [CDV01 – Career Goals Reflection Template](https://github.com/AfolabiAkandeAkor/CDV01_Career_Goals_Reflection_AFOAKA25509_Pto2505_GroupA_Afolabi-Akande_CDV01)
+
+- 🧩 [SDF04 – CS Footer Project](https://github.com/AfolabiAkandeAkor/Module_08_AFOAKA25509_Pto2505_GroupA_Afolabi-Akande_SDF04)
+
 
 ---------
 🧰 Tech Stack
